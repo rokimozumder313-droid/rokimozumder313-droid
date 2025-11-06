@@ -1,4 +1,4 @@
-![Web Developer]( https://pbs.twimg.com/profile_banners/1986445006450925570/1762441324/800x200)
+![Web Developer]( https://pbs.twimg.com/profile_banners/1986445006450925570/1762441324/600x200)
 
 ### Hi there 👋, I'm Roki
 #### Web Developer
